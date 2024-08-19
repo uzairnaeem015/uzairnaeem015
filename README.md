@@ -7,7 +7,7 @@ Here’s a bit more about me:
 - **Education:** Master’s degree in Artificial Intelligence.
 - **Specialties:** Python programming, C# with .NET Core, Microsoft Dynamics 365 F&O developer, and React development,.
 - **Current Focus:** Building innovative AI solutions.
-- **Current Job:** Artificial Intelligence Intern Engineer at [Radical AI](https://www.linkedin.com/company/radicalai-li/)
+- **Current Job:** Artificial Intelligence Intern at [Radical AI](https://www.linkedin.com/company/radicalai-li/)
 
 ## 🚀 Projects
 - [Job Search Tool](https://github.com/uzairnaeem015/JobSearchAI): A simple tool for optimizing job search using AI.
