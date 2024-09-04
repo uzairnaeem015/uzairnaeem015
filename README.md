@@ -22,7 +22,7 @@ Here’s a bit more about me:
         <li>C#, .NET Core, ASP.NET MVC</li>
         <li>D365 F&O, X++</li>
         <li>JavaScript, React, HTML/CSS, Tailwind CSS</li>
-        <li>SQL, RDBMS</li>
+        <li>SQL, RDBMS, NoSQL</li>
         <li>Entity Framework</li>
       </ul>
     <li><strong>Tools & Technologies:</strong></li>
