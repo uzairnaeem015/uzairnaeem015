@@ -7,10 +7,6 @@ Here’s a bit more about me:
 - **Education:** Master’s degree in Artificial Intelligence.
 - **Focus:** Building innovative AI solutions.
 
-## 🚀 Projects
-- [Job Search Tool](https://github.com/uzairnaeem015/JobSearchAI): A simple tool for optimizing job search using AI.
-- [Kai AI](https://github.com/radicalxdev/kai-ai-backend): (Internship project) AI for educational and professional advancement, and optimization of tech training programs.  
-
 ## 🛠 Skills
 <details>
   <summary><strong>AI & MLOps</strong></summary>
