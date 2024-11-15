@@ -1,13 +1,11 @@
 ## Hi there, I'm Uzair Naeem👋
 
-Welcome to my GitHub profile! I'm a software engineer and AI enthusiast, constantly exploring the latest technologies and honing my software engineering expertise.
+Welcome to my GitHub profile! I'm an AI enthusiast, playing with new technologies.
 Here’s a bit more about me:
 
 ## 🌟 About Me
 - **Education:** Master’s degree in Artificial Intelligence.
-- **Specialties:** Python programming, C# with .NET Core, Microsoft Dynamics 365 F&O developer, and React development,.
-- **Current Focus:** Building innovative AI solutions.
-- **Current Job:** Artificial Intelligence Intern at [Radical AI](https://www.linkedin.com/company/radicalai-li/)
+- **Focus:** Building innovative AI solutions.
 
 ## 🚀 Projects
 - [Job Search Tool](https://github.com/uzairnaeem015/JobSearchAI): A simple tool for optimizing job search using AI.
@@ -15,43 +13,25 @@ Here’s a bit more about me:
 
 ## 🛠 Skills
 <details>
-  <summary><strong>Software Development</strong></summary>
+  <summary><strong>AI & MLOps</strong></summary>
   <ul>
     <li><strong>Languages & Frameworks:</strong></li>
       <ul>
-        <li>C#, .NET Core, ASP.NET MVC</li>
-        <li>D365 F&O, X++</li>
-        <li>JavaScript, React, HTML/CSS, Tailwind CSS</li>
-        <li>SQL, RDBMS, NoSQL</li>
-        <li>Entity Framework</li>
+        <li>Python, PyTorch, TensorFlow</li>
+        <li>scikit-learn, pandas, numpy</li>
+        <li>LangChain, FastAPI, Streamlit</li>
+        <li>JavaScript, React, Tailwind CSS</li>
+        <li>SQL, RDBMS, NoSQL (MongoDB, Cassandra)</li>
       </ul>
     <li><strong>Tools & Technologies:</strong></li>
       <ul>
-        <li>RESTful APIs, Postman, Microservices, Web Services</li>
-        <li>CI/CD Pipelines, TFS, Git, Visual Studio</li>
-        <li>SSRS Reports</li>
-        <li>Azure</li>
-        <li>Docker</li>
-      </ul>
-  </ul>
-</details>
-
-<details>
-  <summary><strong>Artificial Intelligence & Data Science</strong></summary>
-  <ul>
-    <li><strong>Programming Languages & Tools:</strong></li>
-      <ul>
-        <li>Python, Notebook, FastAPI, Streamlit</li>
-        <li>Machine Learning (scikit-learn, PyTorch, NumPy, Pandas)</li>
-        <li>Deep Learning</li>
-        <li>Natural Language Processing (NLP)</li>
-        <li>Large Language Models (Google Gemini) and langchain</li>
-      </ul>
-    <li><strong>Data Analysis & Visualization:</strong></li>
-      <ul>
-        <li>Tableau, Power BI</li>
-        <li>Statistical Analysis</li>
-        <li>Big Data (Hadoop, Spark)</li>
+        <li>Google Gemini, OpenAI APIs, Hugging Face</li>
+        <li>Model Deployment: Docker, Kubernetes</li>
+        <li>Cloud Platforms: Azure ML, AWS SageMaker</li>
+        <li>Experimentation: MLflow, TensorBoard</li>
+        <li>Data Engineering: Hadoop, Spark, Apache Airflow</li>
+        <li>Versioning: Git, DVC</li>
+        <li>Monitoring: Prometheus, Grafana</li>
       </ul>
   </ul>
 </details>
@@ -68,7 +48,7 @@ Here’s a bit more about me:
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/uzair-naeem/)
-- [Email](mailto:uzairnaeem15@gmail.com)
+
 
 Feel free to explore my repositories and get in touch!
 
